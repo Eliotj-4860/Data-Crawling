@@ -1,4 +1,4 @@
-# Data, # jupyter notebook, # python
+# Data, jupyter notebook, python
 
 jupyter notebook에서 python을 사용한 데이터 수집 및 처리에 관련된 코드 모음
 
